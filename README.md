@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-VR+3D+Design-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-3D+Design-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Gravity Sketch Free Installer** — Gravity Sketch is a cross-platform 3D design tool that works in VR, on iPad, and in desktop environments. Works without internet access, no account required. Full offline installation.
+**💻 Gravity Sketch Free Installer** — Gravity Sketch is a VR 3D design and sketching tool used by automotive, product, and character designers for rapid concept development in immersive space. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Gravity Sketch
 
-Gravity Sketch is a cross-platform 3D design tool that works in VR, on iPad, and in desktop environments. Create 3D shapes, products, and characters through intuitive spatial drawing and sculpting. Used by industrial designers, automotive designers, and concept artists, Gravity Sketch bridges traditional sketching with 3D modeling for rapid concept development.
+Gravity Sketch is a VR 3D design and sketching tool used by automotive, product, and character designers for rapid concept development in immersive space. Its natural sketching tools in VR accelerate the ideation phase of design workflows.
 
 ---
 
 ## ❌ Problem: Gravity Sketch is hard to access
 
-- **VR for Full Experience** — Desktop version has reduced capabilities compared to VR
-- **Commercial License** — Professional pricing aimed at design studios
-- **Hardware Investment** — Full VR workflow requires VR headset and controllers
-- **Pipeline Integration** — Exporting to production pipelines requires format conversion
+- **VR Required** — Desktop version exists but primary experience is in VR headset
+- **Subscription Cost** — Cloud collaboration and professional features require subscription
+- **Niche Professional Tool** — Industrial design and concept art workflow focus
+- **VR Hardware Cost** — Full experience requires expensive VR headset and capable PC
 
 ---
 
@@ -121,7 +121,7 @@ Gravity Sketch is a cross-platform 3D design tool that works in VR, on iPad, and
 
 ---
 
-**Gravity Sketch Free Installer** — Gravity Sketch is a cross-platform 3D design tool that works in VR, on iPad, and in desktop environments. Install without internet connection today!
+**Gravity Sketch Free Installer** — Gravity Sketch is a VR 3D design and sketching tool used by automotive, product, and character designers for rapid concept development in immersive space. Install without internet connection today!
 
 <div align="center">
 
